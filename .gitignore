@@ -6,3 +6,5 @@ __pycache__/
 yolov8n.pt
 data/videos/
 .DS_Store
+*.pt
+data/
